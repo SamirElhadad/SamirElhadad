@@ -9,10 +9,7 @@
 
 ## 📈 GitHub Stats: 
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamirElhadad&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirElhadad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamirElhadad&theme=tokyonight&hide_border=true" />
@@ -25,6 +22,38 @@
 ![Samir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamirElhadad&theme=tokyo-night&hide_border=true)
 
 ---
+<div class="stats-container">
+  <div class="stats-box">
+    <img src="https://github-readme-stats.vercel.app/api?username=SamirElhadad&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </div>
+  <div class="stats-box">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirElhadad&layout=compact&theme=radical" alt="Most Used Languages" />
+  </div>
+</div>
+
+<style>
+  .stats-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+    margin-top: 20px;
+    flex-wrap: wrap; /* يخليهم ينزلوا تحت بعض في الموبايل */
+  }
+
+  .stats-box img {
+    width: 100%;
+    max-width: 420px; /* ظبط حجم كل صورة */
+    border-radius: 10px;
+  }
+
+  .contribution-graph img {
+    width: 100%;
+    border-radius: 10px;
+  }
+</style>
+
+--
 
 ## 🌐 Connect with Me
 
