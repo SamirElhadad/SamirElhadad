@@ -30,16 +30,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/samirelhadad/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
   </a>
   <a href="mailto:samirelhadad28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF512F?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="40" alt="Email"/>
   </a>
   <a href="https://www.instagram.com/samir__elhadad/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="40" alt="Instagram"/>
   </a>
   <a href="https://www.facebook.com/samir.elhadad.879974/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="40" alt="Facebook"/>
   </a>
 </div>
 
