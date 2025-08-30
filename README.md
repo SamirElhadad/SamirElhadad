@@ -31,28 +31,6 @@
   </div>
 </div>
 
-<style>
-  .stats-container {
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    gap: 20px;
-    margin-top: 20px;
-    flex-wrap: wrap; /* يخليهم ينزلوا تحت بعض في الموبايل */
-  }
-
-  .stats-box img {
-    width: 100%;
-    max-width: 420px; /* ظبط حجم كل صورة */
-    border-radius: 10px;
-  }
-
-  .contribution-graph img {
-    width: 100%;
-    border-radius: 10px;
-  }
-</style>
-
 --
 
 ## 🌐 Connect with Me
