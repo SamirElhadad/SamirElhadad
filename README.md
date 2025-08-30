@@ -24,8 +24,8 @@
 ## 📊 My GitHub Analytics  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamirElhadad&show_icons=true&theme=github-dark-dimmed&count_private=true&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirElhadad&layout=compact&theme=github-dark-dimmed&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamirElhadad&show_icons=true&theme=github_dark&count_private=true&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirElhadad&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </div>
 
 <br>
