@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co/Qf4vC5q/github-banner.png" alt="Welcome Banner" />
+</p>
+
 # 👋 Hi, I'm Samir Elhadad
 
 ## 🚀 About Me
