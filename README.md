@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Samir Elhadad
 
-<!--
-**SamirElhadad/SamirElhadad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 I'm a passionate **Front-End Developer**  
+- 📚 Currently learning **.NET & Web Development**  
+- 🌱 Exploring **AI & Data Science**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamirElhadad&theme=react-dark)](https://git.io/streak-stats))
+
+---
+
+## 📊 GitHub Stats
+![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamirElhadad&show_icons=true&theme=radical)
+
+---
+
+## 🗂️ Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirElhadad&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/samirelhadad)  
+- 📧 Email: **samirelhadad28@gmail.com**  
+
+
