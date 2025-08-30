@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/Qf4vC5q/github-banner.png" alt="Welcome Banner" />
-</p>
-
 # 👋 Hi, I'm Samir Elhadad
 
 ## 🚀 About Me
@@ -34,18 +30,19 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/samirelhadad/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </a>
   <a href="mailto:samirelhadad28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF512F?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-FF512F?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
   </a>
   <a href="https://www.instagram.com/samir__elhadad/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
   </a>
   <a href="https://www.facebook.com/samir.elhadad.879974/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40"/>
   </a>
 </div>
+
 
 
 <!--
