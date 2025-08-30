@@ -26,8 +26,7 @@
 
 ## 📊 Contribution Graph:
 
-![Samir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamirElhadad&theme=tokyo-night&bg_color=00000000&hide_border=true&area=true&height=500)
-
+![Samir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamirElhadad&theme=tokyo-night&bg_color=00000000&hide_border=true&area=true&height=400)
 
 <br>
 
