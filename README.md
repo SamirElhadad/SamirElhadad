@@ -19,7 +19,10 @@
 
 ![Samir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamirElhadad&theme=tokyo-night&hide_border=true)
 
----
+<br>
+
+## 📊 My GitHub Analytics  
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamirElhadad&show_icons=true&theme=react&count_private=true&hide_border=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirElhadad&layout=compact&theme=react&hide_border=true&langs_count=8" />
@@ -43,12 +46,3 @@
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="40" alt="Facebook"/>
   </a>
 </div>
-
-
-
-
-<!--
-- [LinkedIn](https://www.linkedin.com/in/samirelhadad)  
-- 📧 Email: **samirelhadad28@gmail.com**  
--->
-
