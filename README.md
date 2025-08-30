@@ -28,7 +28,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirElhadad&layout=compact&theme=react&hide_border=true&langs_count=8" />
 </div>
 
---
+<br>
 
 ## 🌐 Connect with Me
 
