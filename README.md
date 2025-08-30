@@ -36,7 +36,7 @@
   <a href="mailto:samirelhadad28@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://www.instagram.com/zeyad_w_hassaballah/](https://www.instagram.com/samir__elhadad/)">
+  <a href="https://www.instagram.com/samir__elhadad/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="[https://www.facebook.com/share/1Bju8PDhan](https://www.facebook.com/samir.elhadad.879974)/">
