@@ -16,19 +16,17 @@
 
 <br>
 
-## 📊 Contribution Graph:
-
-![Samir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamirElhadad&theme=github-dark-dimmed&hide_border=true)
-
-<br>
-
-
-
 ## 📈 GitHub Stats: 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamirElhadad&theme=github-dark-dimmed&hide_border=true" />
 </div>
+
+<br>
+
+## 📊 Contribution Graph:
+
+![Samir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamirElhadad&theme=github-dark-dimmed&hide_border=true)
 
 <br>
 
