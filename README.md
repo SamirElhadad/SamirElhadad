@@ -28,8 +28,6 @@
 
 ## 🌐 Connect with Me
 
-## 🌐 Connect with Me
-
 <div align="center">
   <a href="https://www.linkedin.com/in/samirelhadad/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" alt="LinkedIn"/>
@@ -44,6 +42,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="40" alt="Facebook"/>
   </a>
 </div>
+
 
 
 
