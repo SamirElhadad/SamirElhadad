@@ -33,7 +33,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" alt="LinkedIn"/>
   </a>
   <a href="mailto:samirelhadad28@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" alt="Email (Gmail)" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" height="40" alt="Email (Gmail)"/>
   </a>
   <a href="https://www.instagram.com/samir__elhadad/">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" alt="Instagram"/>
