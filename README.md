@@ -19,8 +19,9 @@
 ## 📈 GitHub Streak:  
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SamirElhadad&theme=github-dark&hide_border=true" />
+  ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=SamirElhadad&theme=github-dark&hide_border=true)
 </div>
+
 
 <br>
 
