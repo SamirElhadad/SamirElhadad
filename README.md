@@ -19,7 +19,7 @@
 ## 📈 GitHub Streak:  
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=SamirElhadad&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=SamirElhadad&theme=github-dark-dimmed&hide_border=true" />
 </div>
 
 
