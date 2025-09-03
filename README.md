@@ -16,7 +16,7 @@
 
 <br>
 
-## 📈 GitHub Stats: 
+## 📈 GitHub Streak:  
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SamirElhadad&theme=github-dark&hide_border=true" />
@@ -24,9 +24,9 @@
 
 <br>
 
-## 📊 Contribution Graph:
+## 📊 Contribution Graph:  
 
-![Samir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamirElhadad&theme=tokyo-night&bg_color=00000000&hide_border=true&area=true&height=400)
+![Samir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamirElhadad&theme=github-dark&bg_color=00000000&hide_border=true&area=true&height=300)
 
 
 ## 🌐 Connect with Me
